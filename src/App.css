@@ -1,0 +1,104 @@
+.searchGoogle-container{
+  display:flex;
+  justify-content:center;
+  padding: 10px;
+  margin-top: 20px; 
+  margin-left:-60px;
+  /* margin-bottom: 10px;  */
+ }
+.buttons-container {
+  display:flex;
+  justify-content: center;
+  /* margin: 25px; 
+  padding: 12px; */
+  margin-left:-60px;
+}
+.searchGoogle{
+ cursor: pointer;
+ border-radius:25px;
+ background-color: transparent;
+}
+.unitedKingdom-div{
+  margin-top: 180px;
+  border: 0.5px solid rgba(146, 146, 143, 0.972);
+  background: #d5d7db;
+  color:grey;
+  padding: 12px;
+  /* font-size: 10px; */
+}
+.footer-links{
+  text-align: center;
+  background: #c5c7c9;
+  list-style: none;
+  
+}
+.googleLetters{
+  display:flex;
+  text-align: center;
+  justify-content:center;
+  margin-top: 40px;
+  font-size: 80px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.g, .gg{
+  color: blue;
+  cursor: pointer;
+}
+.o, .e{
+  color: rgb(255, 0, 0);
+  cursor: pointer;
+ }
+ .oo{
+  color: rgb(226, 135, 17);
+  cursor: pointer;
+ }
+ .l{
+  color: rgba(51, 255, 0, 0.664);
+  cursor: pointer;
+ }
+ 
+.btn{
+  display:flex;
+  justify-content:space-between
+}
+
+.avertising_business{
+  display:flex;
+  justify-content:space-evenly; 
+  background: #d1d2d4; 
+  /* text-decoration: none; */
+   /* text-align:left; */
+   font-family: sans-serif; 
+   font-style: Arial;
+  }
+.privacy_terms_settings{
+  /* text-decoration: none; */
+  /* text-align:right; */
+  font-family: sans-serif; 
+  font-style: Arial;
+  background: #d1d2d4;
+  display:flex;
+  justify-content:space-evenly; 
+ 
+ 
+}
+.nav-brand{
+  text-decoration: none;
+   text-align:left;
+   font-family: sans-serif; 
+   font-style: Arial;
+   padding:5px;
+   margin-top: -15px;
+   float: left;
+}
+.nav-item{
+  /* color: #010007; */
+  text-decoration: none;
+  text-align:right;
+  font-family: sans-serif; 
+  font-style: Arial;
+  padding:5px;
+  margin-top: -15px;
+  float: right; 
+}
+  
